@@ -28,21 +28,24 @@ Correlation
 
 Oldpeak (r = 0.40) and MaxHR (r = -0.40) had the strongest correlations with heart disease. No numeric variable exceeded 0.40, and the strongest categorical findings above do not appear in the heatmap.
 
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/52b8c7c4-6af9-489d-97ca-559e49858ccc" />
 
 
-Limitations
+Limitations:   
+
 Single, mostly male clinical sample (724 M, 193 F); results do not generalize.
 Observational data shows association, not causation.
 Cholesterol results cover a subset with a lower disease rate than the full data (47.7% vs 55.3%).
 Small groups: TA chest pain (n = 46) and downsloping ST segment (n = 63).
 No significance tests or predictive model were built.
 
-How to Run
+How to Run:   
+
 Open heart_disease_analysis.ipynb in Google Colab.
 Upload heart.csv to the Colab session (folder icon in the left sidebar, then the upload icon).
 Run all cells (Runtime > Run all).
 
-Files
+Files:
 
 text
 heart-disease-analysis/
